@@ -1,7 +1,9 @@
 # Сегментация пользователей для персонализированных маркетинговых акций
 
 ## Стек:
-https://img.shields.io/badge/SQL
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![Redash](https://img.shields.io/badge/Redash-FF7964?style=for-the-badge&logo=redash&logoColor=white)](#)
 
 
 ## Данные
